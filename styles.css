@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(145, 213, 213);
+}
+
+#btn{
+    border-radius: 3cm;
+    border-color:white ;
+    height: 40px;
+    width: 1in;
+    background-color: pink;
+}
